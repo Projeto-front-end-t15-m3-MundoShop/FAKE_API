@@ -4,8 +4,153 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
-      "id": 1
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "id": 1,
+      "isSeller": false,
+      "adress": "Rua da sila, 308 Florianópolis/Santa Catarina"
     }
+  ],
+  "products": [
+    {
+      "img": "https://ibb.co/bvV02dT",
+      "name": "Samsung Galaxy A23 128gb 4gb Ram Branco",
+      "price": 1.299,
+      "description": "Melhor desenpenho Sua memória RAM de 4 GB permite que seu smartphone funcione sem problemas e sem demora ao executar várias tarefas, jogar jogos ou navegar. Grande capacidade de armazenamento Com sua memória interna de 128 GB você poderá armazenar arquivos e aplicativos grandes sem ter que carregá-los para a nuvem e aproveitar seus momentos off-line para desfrutá-los ao máximo.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/MDccbCg",
+      "name": "Moto E32 Dual SIM 64 GB cinza 4 GB RAM",
+      "price": 915,
+      "description": "Fotografia profissional no seu bolso Descubra infinitas possibilidades para suas fotos com as 3 câmeras principais de sua equipe. Teste sua criatividade e jogue com iluminação, diferentes planos e efeitos para obter ótimos resultados.Além disso, o dispositivo possui uma câmera frontal de 8 Mpx para que você possa tirar selfies divertidas ou fazer videochamadas. Melhor desempenho Sua memória RAM de 4 GB permite que seu smartphone funcione sem problemas e sem demora ao executar várias tarefas, jogar jogos ou navegar.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/QCgPGxV",
+      "name": "Smartphone Galaxy S22 Ultra 5g 256gb 12gb Ram Preto Samsung",
+      "price": 6.099,
+      "description":"Fotografia profissional no seu bolso Descubra infinitas possibilidades para suas fotos com as 4 câmeras principais de sua equipe. Teste sua criatividade e jogue com iluminação, diferentes planos e efeitos para obter ótimos resultados. Perfeito para quem gosta de fotos detalhadas. Seu zoom óptico lhe dará a possibilidade de ampliar sem perder qualidade de suas capturas. Experiência visual incrível Assista às suas séries e filmes favoritos com a melhor definição na sua tela Dynamic AMOLED 2X de 6.8. Desfrute de cores brilhantes e detalhes precisos em todo o seu conteúdo.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/6XHHkbC",
+      "name": "Apple iPhone 14 Pro Max (256 GB) - Preto-espacial",
+      "price": 9.250,
+      "description":"iPhone 14 Pro Max. Câmera grande-angular de 48 MP para capturar detalhes impressionantes. Dynamic Island, uma nova forma de interação no iPhone. Tela Sempre Ativa. E Detecção de Acidente(1), um novo recurso de segurança que liga para a emergência se você não puder.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/Z6N7qxr",
+      "name": "Smartphone Poco X5 5g Preto 128gb 6gb Ram Global",
+      "price": 2.299,
+      "description":"Fotografia profissional no seu bolso Descubra infinitas possibilidades para suas fotos com as 3 câmeras principais de sua equipe. Teste sua criatividade e jogue com iluminação, diferentes planos e efeitos para obter ótimos resultados. Além disso, o dispositivo possui uma câmera frontal de 13 Mpx para que você possa tirar selfies divertidas ou fazer videochamadas. Experiência visual incrível Assista às suas séries e filmes favoritos com a melhor definição na sua tela AMOLED de 6.67. Desfrute de cores brilhantes e detalhes precisos em todo o seu conteúdo.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/gWJjCrK",
+      "name": "Notebook Dell G3 3590 preta-eclipse 15.6, Intel Core i5 9300H 8GB de RAM 512GB SSD, NVIDIA GeForce GTX 1660 Ti 60 Hz 1920x1080px Windows 10 Home",
+      "price": 7.989,
+      "description":"Os produtos da Dell destacam-se por oferecer soluções reais para cada uma das necessidades. Seja para se divertir, trabalhar ou colaborar de maneira online, você poderá fazer isso com segurança de qualquer lugar e a qualquer hora Tela com alto impacto visual A sua tela LED de 15.6 e 1920x1080 px de resolução lhe dará cores mais vivas e definidas. Seus filmes e séries favoritas ganharão vida, com maior qualidade e definição em cada detalhe. Eficiência na ponta dos dedos Seu processador Intel Core i5 de 4 núcleos, é projetado para aquelas pessoas que geram e consomem conteúdo. Com esta unidade central, a máquina realizará vários processos simultaneamente, desde a edição de vídeo até o retoque de fotos com programas profissionais.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/mRYMt3V",
+      "name": "Apple Macbook Pro A2779 14.2 M2 16gb 512gb 16-core Gpu 2023",
+      "price": 17.497,
+      "description":"Chip M2 Pro da Apple com CPU de 10 núcleos, GPU de 16 núcleos e Neural Engine de 16 núcleos Memória unificada de 16 GB SSD de 512 GB Adaptador de energia USB-C de 67W Tela Liquid Retina XDR de 14 polegadas Três portas Thunderbolt 4, porta HDMI, slot para cartão SDXC, entrada para fones de ouvido, porta MagSafe 3 Magic Keyboard retroiluminado com Touch ID – Inglês (EUA)",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/7n5x1KN",
+      "name": "Notebook Acer 5 15,6'' I7 8gb 512g Ssd An515-57-740k",
+      "price": 5.569,
+      "description":"O notebook Acer AN515-57-740K é uma solução para trabalhar e estudar, bem como para entreter. Por ser portátil, a oficina deixará de ser o seu único espaço a utilizar para abrir-lhe as portas a outros ambientes, seja em casa ou no escritório. Eficiência na ponta dos dedos Seu processador Intel, lhe permitirá executar diversos programas e processos indispensáveis ​​para se desenvolver no dia a dia, seja no seu trabalho ou nos momentos de lazer em sua casa. Unidade sólida poderoso O disco sólido de 512 GB faz o equipo funcionar em alta velocidade e por isso oferece a maior agilidade para operar com diversos programas.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/HFm8kXn",
+      "name": "Notebook Samsung Book NP550XDA cinza-chumbo 15.6",
+      "price": 4.499,
+      "description":"O notebook Samsung Book X30 é uma solução para trabalhar e estudar, bem como para entreter. Por ser portátil, a oficina deixará de ser o seu único espaço a utilizar para abrir-lhe as portas a outros ambientes, seja em casa ou no escritório. Tela com alto impacto visual A sua tela LED de 15.6 e 1920x1080 px de resolução lhe dará cores mais vivas e definidas. Seus filmes e séries favoritas ganharão vida, com maior qualidade e definição em cada detalhe. Eficiência na ponta dos dedos Seu processador Intel Core i5 de 4 núcleos, é projetado para aquelas pessoas que geram e consomem conteúdo. Com esta unidade central, a máquina realizará vários processos simultaneamente, desde a edição de vídeo até o retoque de fotos com programas profissionais.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/c61qkXm",
+      "name": "Apple iPad Air (5ª geração) 10.9 Wi-Fi 256 GB Chip M1 - Estelar",
+      "price": 6.23,
+      "description":"iPad Air. Com uma tela Liquid Retina envolvente de 10,9 polegadas. O revolucionário chip M1 da Apple traz desempenho mais rápido, tornando o iPad Air uma potência quando o assunto é criatividade e jogos. Com Touch ID, câmeras avançadas, Wi-Fi 6 ultrarrápido, USB-C e compatibilidade com Magic Keyboard e Apple Pencil (2a geração).",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/pWw4KZS",
+      "name": "Tablet U10 4g 64gb Tela 10.1 Pol. 3gb Ram Wi-fi Prata Nb386",
+      "price": 1.699,
+      "description":"Moderno e eficiente para o cotidiano, o Tablet U10 da Ultra tem tudo que você precisa na ponta dos dedos. Garante 8 vezes mais velocidade para realizar as multitarefas, é desenvolvido com processador octa-core e armazenamento de 64GB. Com ele, é possível jogar, ver vídeos, navegar pela internet e muito mais, ao mesmo tempo e sem travamentos, afinal, vem acompanhado do sistema operacional Android 12. É um poderoso tablet. Perfeito para as tarefas que demandam mais poder em processamento. Não te deixa na mão, nem mesmo no quesito de bateria, afinal, ela dura por horas e possui 6000 mAh, o que permite carregar com menos frequência. As câmeras do Tablet U10 da Ultra são ótimas para registrar momentos ou realizar vídeo chamadas em boa qualidade, de maneira profissional ou pessoal. Isso acontece porque a frontal é de 5MP, enquanto a traseira é de 8MP. Contém disponibilidade para conexão WI-FI, 3G, 4G, Bluetooth® e GPS. Além disso, vem instalado com o Google Kids Space*.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/CMwpX5n",
+      "name": "Tablet Samsung Galaxy Tab S S6 Lite SM-P619 10.4 128GB oxford gray e 4GB de memória RAM",
+      "price": 2.529,
+      "description":"Este tablet da Samsung é o companheiro ideal, com capacidade de sobra para cada uma das suas atividades. O design fino, compacto e portátil, com facilidade para segurar com a mão, o torna uma combinação perfeita de desempenho e versatilidade. Transferir, sincronizar e acessar aos seus dispositivos quantas vezes quiser agora é possivel. Suas conexões bluetooth, wi-fi, wi-fi direct, smart switch, 4g fdd lte, 4g tdd lte, usb-c 2.0 permitem que você maximize suas funções. Capture todos os seus momentos instantaneamente Graças às suas câmeras, com resoluções de 8 Mpx e 5 Mpx, você poderá fazer chamadas de vídeo ou tirar fotos a qualquer hora, em qualquer lugar, com excelente qualidade de imagem. A nitidez, o brilho e as cores vibrantes garantirão que suas experiências sejam guardadas em alta qualidade.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/Dg62z7K",
+      "name": "Fone de ouvido in-ear sem fio Samsung Galaxy Buds Pro SM-R190NZ preto",
+      "price": 638,
+      "description":"A Samsung, empresa coreana de grande prestígio, destaca-se pela sua presença mundial no mercado de eletrônicos. A empresa é fundamentalmente baseada em oferecer os melhores produtos e serviços. É por isso que suas gamas de fones de ouvido apresentam inovações tecnológicas que você notará ao reproduzir sua música favorita. O formato perfeito para você Ao ser in-ear, melhoram a qualidade do áudio e são de tamanho pequeno para que possam ser inseridos em sua orelha. Eles são ideais para acompanhar você quando se exercita enquanto se adentra no melhor som envolvente. Sem fio ao 100% Ao contrário de outras conectividades, este dispositivo é fabricado com a tecnologia TWS (True Wireless Stereo) o que permite uma conexão sem fio completa e funciona sem um único cabo entre pares. Com ele você poderá desfrutar do ambiente de som sem ter que estar pendente de conexões físicas.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/ySN0hbp",
+      "name": "Fone de ouvido in-ear sem fio Samsung Galaxy Buds Live SM-R180NZ mystic black",
+      "price": 481,
+      "description":"Com os fones de ouvido da Samsung Buds Live, é possível curtir suas músicas favoritas como se as estivesse ouvindo ao vivo. Isto é graças à sua conectividade bluetooth, que permite uma alta taxa de transferência de dados. Além de sua qualidade de som, se você estiver em uma chamada importante ou precisa executar uma tarefa muito relevante, você pode iniciar o cancelamento de ruído ativo para isolar sons externos. O formato perfeito para você Ao ser in-ear, melhoram a qualidade do áudio e são de tamanho pequeno para que possam ser inseridos em sua orelha. Eles são ideais para acompanhar você quando se exercita enquanto se adentra no melhor som envolvente. Sem fio ao 100% Ao contrário de outras conectividades, este dispositivo é fabricado com a tecnologia TWS (True Wireless Stereo) o que permite uma conexão sem fio completa e funciona sem um único cabo entre pares. Com ele você poderá desfrutar do ambiente de som sem ter que estar pendente de conexões físicas.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/9TnKL4t",
+      "name": "Apple Watch Series 8 GPS - Caixa estelar de alumínio 41 mm - Pulseira esportiva estelar - Padrão",
+      "price": 3.251,
+      "description":"O Apple Watch Series 8 tem sensores e apps avançados de saúde, que permitem fazer um ECG, ver sua frequência cardíaca e o nível de oxigênio no sangue e acompanhar as variações de temperatura para informações detalhadas sobre seu ciclo menstrual. Além disso, a Detecção de Acidente, o monitoramento dos estágios do sono e as métricas avançadas de exercícios ajudam você a ter uma vida ativa, saudável, segura e conectada.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/17dkC08",
+      "name": "Xiaomi Redmi Watch 2 Lite 1.55 caixa ivory, pulseira ivory",
+      "price": 329,
+      "description":"Com 10 anos de experiência, a Xiaomi está posicionada como uma das líderes indiscutíveis no mercado de smartwatches. Seus produtos destacam-se pela qualidade, o design simples e o muito bom desempenho. A Mi Band tem tudo o que você precisa para acompanhar a sua rotina. Monitor de saturação do oxigênio no sangue O nível de oxigênio no sangue é um indicador muito importante para determinar o bem-estar geral. Você será capaz de controlar esses dados desde o seu pulso e avaliar sua condição física enquanto faz suas atividades diárias ou durante sessões de treinamento intenso. Descanse melhor, incremente seu rendimento Graças à função de monitoramento do sono, você pode aprender mais sobre seus hábitos à noite e a qualidade do seu descanso para que possa ter um melhor desempenho no dia seguinte.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/MZWv5JZ",
+      "name": "Samsung Galaxy Watch5 Pro (Bluetooth) 1.4 caixa 45mm de titânio cinza-titânio, pulseira cinza-titânio e o arco cinza-titânio SM-R920",
+      "price": 2.925,
+      "description":"A Samsung é sinônimo de qualidade e evolução tecnológica. Seu sistema de navegação intuitivo e a boa integração com outros dispositivos compõem os smartwatches desta marca uma opção sempre confiável. Além disso, possui muitas opções de personalização para que você possa encontrar o estilo que combina com você. Descanse melhor, incremente seu rendimento Graças à função de monitoramento do sono, você pode aprender mais sobre seus hábitos à noite e a qualidade do seu descanso para que possa ter um melhor desempenho no dia seguinte Controle preciso do seu treino Grave todas suas rotas em tempo real com o módulo GPS integrado no seu relógio. Desafie seus limites com os dados em tempo real, assim como a distância, a velocidade e o ritmo.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/1Tr0Wd1",
+      "name": "Barbada Mouse Gamer Para Jogos Laser X7 3200dpi Led Usb 7 Bo",
+      "price": 8.048,
+      "description":"Conheça o mouse gamer X7 com efeitos visuais em LEDs mude em 3 tores de cor azul, roxo e vermelho, com ajustes DPI que pode ser alterada apenas com um click podendo utilizar nas resoluções 1600/2400 Além da programação do DPI, ele possui 2 botões de atalhos, onde você pode programar as funções do mesmo em seus jogos preferidos ou ajudar na sua navegação na internet. Botão Fire (Double Click) 2x mais disparos nos seus jogos de FFS No total ele possui 7 botões macios. Esse é um mouse para todos perfis, pois é ergonômico e com o menor preço do mercado.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/Phy6kzT",
+      "name": "Mouse Gamer Para Jogo 3.200 Dpi Óptico Com Led Rgb Usb Exbom",
+      "price": 37,
+      "description":"Está procurando um mouse gamer de qualidade para suas longas horas de jogatina? ENTÃO VOCÊ ACABA DE ENCONTRAR ELE! Com seu formato ergonômico, ele permite que a sua mão se encaixe perfeitamente, ideal para jogar por várias horas! Conta com dpi ajustável até 3200 (800/1600/2400/3200), garantindo um ajuste fino e ótima precisão no game. Ele possui botão de rolamento para facilitar a navegação, o botão de rolamento também tem o click. Além do botão de rolamento, o mouse conta com outros 3 botões configuráveis. A atmosfera do game é elevada pelos LEDs que ficam alterando as 7 cores durante o game.",
+      "userId": 1
+      },
+      {
+      "img": "https://ibb.co/jhqmY5k",
+      "name": "Controle joystick sem fio Sony PlayStation Dualshock 4 jet black",
+      "price": 249,
+      "description": "Controle preciso Este controle combina funções revolucionárias, preservando precisão, conforto e exatidão em cada movimento. Graças à sua ergonomia especialmente projetada para a posição da sua mão, você pode passar horas jogando com total conforto. Transmita imediatamente Compartilhe suas vitórias e conquistas com os seus amigos nas redes sociais mais populares apenas tocando no botão SHARE. Novas ideias Guie, faça gestos ou desenhe com o touch pad. Sua localização na frente do controle dará mais liberdade à sua maneira de jogar. Jogo personalizado Quatro luzes LED coloridas oferecem uma maneira mais simples de identificar jogadores e visualizar as informações úteis do jogo, como quando um personagem sofre sérios danos.",
+      "userId": 1
+      }
+
   ]
 }
